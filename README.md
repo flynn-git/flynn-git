@@ -2,7 +2,7 @@
 <h3 align="center">💻 Cybersecurity | SOC Analyst | Threat Detection</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I+love+AI!😁.;Learning+%7C+Researching+Buiding%7C+Automation&center=true&width=500&height=45" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I+love+AI!😁.;Learning+%7C+Researching%7C+Buiding%7C+Automation&center=true&width=500&height=45" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Profile%20Views&query=total&url=https://visitor-count.glitch.me/api/count/flynn-git.flynn-git" />
