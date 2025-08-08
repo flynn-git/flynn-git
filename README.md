@@ -1,11 +1,15 @@
-<h1 align="center">Hey 👋, I'm Panha Van</h1>
-<h3 align="center">💻 Cybersecurity | SOC Analyst | Threat Detection</h3>
-
+<h1 align="center">Hey 👋, I'm Panha Van. Welcome to my GitHub!</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I+love+AI!😁.;Learning+%7C+Researching+%7C+Buiding+%7C+Automation&center=true&width=500&height=45" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Profile%20Views&query=total&url=https://visitor-count.glitch.me/api/count/flynn-git.flynn-git" />
+  <img alt="Coding" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" height="450" width="450" >
+</p>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=flynn-git&label=Profile%20views&color=0e75b6&style=flat" alt="flynn-git" /> 
+</p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
@@ -50,12 +54,6 @@
 
 ---
 
-### 🔥 GitHub Streak
-
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=flynn-git&theme=github-light&hide_border=false"/>
-</p>
 <p align="center">
 ⚡ Keep learning, keep building. Simplicity is the ultimate sophistication.
 </p>
