@@ -18,7 +18,7 @@
 
 ### 🚀 About Me
 
-- 🎯 Focused on **Productivity Tools**, and **Simplicity**...
+- 🎯 
 - 💡 Always learning and building tools that help people
 
 ### 📦 Featured Project
